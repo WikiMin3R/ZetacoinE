@@ -1,0 +1,20 @@
+#contributed by Stan Stawicki (WikiMin3R) and Ben Wilson (Lynx) on March 28, 2020
+class Zetacoin(Coin):
+    NAME = "Zetacoin"
+    SHORTNAME = "ZET"
+    NET = "mainnet"
+    XPUB_VERBYTES = bytes.fromhex("0488B21E")
+    XPRV_VERBYTES = bytes.fromhex("0488ADE4")
+    P2PKH_VERBYTE = bytes.fromhex("50")
+    P2SH_VERBYTES = [bytes.fromhex("09")]
+    WIF_BYTE = bytes.fromhex("E0")
+    GENESIS_HASH = ('d0227b8c3e3d07bce9656b3d9e474f05'
+                    '0d23458aaead93357dcfdac9ab9b79f9')
+    DESERIALIZER = lib_tx.DeserializerSegWit
+    TX_COUNT = 12102586
+    TX_COUNT_HEIGHT = 12102586
+    TX_PER_BLOCK = 1
+    REORG_LIMIT = 5000
+    RPC_PORT = 17335
+    PEER_DEFAULT_PORTS = {'t': '17333', 's': '17334'}
+    PEERS = []
