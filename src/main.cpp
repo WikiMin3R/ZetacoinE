@@ -1,5 +1,6 @@
 // Copyright (c) 2009-2010 Satoshi Nakamoto
 // Copyright (c) 2009-2016 The Bitcoin Core developers
+// Copyright (c) 2017-2021 EWMCI, LLC.
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -1719,7 +1720,7 @@ bool ReadBlockFromDisk(CBlock& block, const CBlockIndex* pindex, const Consensus
 }
 
 static const CAmount nStartSubsidy = 1000 * COIN;
-static const CAmount nMinSubsidy = 1 * COIN;
+static const CAmount nMinSubsidy = 0.25 * COIN;      // Changed subsidy on July 26, 2021
 
 CAmount GetBlockSubsidy(int nHeight, const Consensus::Params& consensusParams)
 {
