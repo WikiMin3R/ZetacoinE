@@ -6,14 +6,14 @@ https://www.zetac.org
 What is Zetacoin?
 ----------------
 
-Zetacoin is an experimental new digital currency that enables instant payments to
-anyone, anywhere in the world. Zetacoin uses peer-to-peer technology to operate
-with no central authority: managing transactions and issuing money are carried
-out collectively by the network. Zetacoin Core is the name of open source
-software which enables the use of this currency.
+Zetacoin is a well-established, yet experimental digital currency that enables 
+instant payments to anyone, anywhere in the world. Zetacoin uses peer-to-peer 
+technology to operate with no central authority: managing transactions and UTXO 
+issuance are carried out collectively by the network. Zetacoin Core is the name 
+of open source software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Zetacoin Core software, see https://www.zetac.org/.
+the Zetacoin Core software, see https://ewmci.info
 
 License
 -------
