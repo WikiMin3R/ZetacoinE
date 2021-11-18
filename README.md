@@ -9,7 +9,7 @@ New in Zetacoin v0.14.1.1-pow-pos-transition:
 
 Node lists can be pasted into your Zetacoin.conf and are available at:
 1) https://chainz.cryptoid.info/zet/#!network
-2) http://explorer.zetacoin.io/ 
+2) http://explorer.zetacoin.org/ 
 [Click on "Network"]
 
 https://ewmci.info/ continues to develop the Zetacoin protocol. More information available at links below:
