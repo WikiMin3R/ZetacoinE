@@ -1,0 +1,11 @@
+[Protocol]
+exec=zetacoin-qt '%u'
+protocol=zetacoin
+input=none
+output=none
+helper=true
+listing=
+reading=false
+writing=false
+makedir=false
+deleting=false

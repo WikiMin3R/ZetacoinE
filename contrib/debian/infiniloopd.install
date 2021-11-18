@@ -1,0 +1,2 @@
+debian/bin/zetacoind usr/bin
+src/zetacoind usr/lib/zetacoin
