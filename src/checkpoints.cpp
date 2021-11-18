@@ -28,8 +28,8 @@ static const int nCheckpointSpan = 500;
     static MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
         ( 0000,   uint256("0x000005cfd8a9c70423a97a448fc06a96de06d48f664f2eb5546c6d3817b7a348") ) // genesis
-    //    ( 7500,  uint256("0x097cb27ca7f98df07fcb5b069f3252f636dc2842a18fdb90dc1c3fca2ac7f462") ) // initial deployment
-    //    ( 27310,  uint256("0xb7195b00e1ae01a42bf43b6469a1a9297265e12daebbbeaa26b15cd5001a1ef4") ) // full deployment
+        ( 175,  uint256("0x5521aa5c3f427a296e9eeb47e085b8915a65bf3498bc554e7fac4a080e6b130c") ) // end of pre-mining epoch
+        ( 176,  uint256("0xdb38cacfda14205fa395652d2036a300a34324010206ebafd6f3f60f30844196") ) // beginning of PoW + PoS epoch
     //    ( 318599,  uint256("0xef2c3952ea2a63f40e5a2498f6732386c768f2727021e381f43a26f36efa940e") ) // July 1, 2022 formal decomissioning of old Zetacoin
     ;
 
