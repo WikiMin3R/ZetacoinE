@@ -1,6 +1,6 @@
 TEMPLATE = app
 TARGET = zetacoin-qt
-VERSION = 0.14.1.1
+VERSION = 0.14.1.2
 INCLUDEPATH += src src/json src/qt
 QT += network
 DEFINES += ENABLE_WALLET
