@@ -1,4 +1,6 @@
 // Copyright (c) 2009-2012 The Bitcoin developers
+// Copyright (c) 2018-2021 The InfiniLooP developers
+// Copyright (c) 2020-2021 The Zetacoin developers
 // Distributed under the MIT/X11 software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
@@ -27,10 +29,12 @@ static const int nCheckpointSpan = 500;
     //
     static MapCheckpoints mapCheckpoints =
         boost::assign::map_list_of
-        ( 0000,   uint256("0x000005cfd8a9c70423a97a448fc06a96de06d48f664f2eb5546c6d3817b7a348") ) // genesis
-        ( 175,  uint256("0x5521aa5c3f427a296e9eeb47e085b8915a65bf3498bc554e7fac4a080e6b130c") ) // end of pre-mining epoch
-        ( 176,  uint256("0xdb38cacfda14205fa395652d2036a300a34324010206ebafd6f3f60f30844196") ) // beginning of PoW + PoS epoch
-    //    ( 318599,  uint256("0xef2c3952ea2a63f40e5a2498f6732386c768f2727021e381f43a26f36efa940e") ) // July 1, 2022 formal decomissioning of old Zetacoin
+        ( 0000,   uint256("0x000005cfd8a9c70423a97a448fc06a96de06d48f664f2eb5546c6d3817b7a348") ) // Genesis
+        ( 175,  uint256("0x5521aa5c3f427a296e9eeb47e085b8915a65bf3498bc554e7fac4a080e6b130c") ) // End of pre-mining epoch
+        ( 176,  uint256("0xdb38cacfda14205fa395652d2036a300a34324010206ebafd6f3f60f30844196") ) // Beginning of PoW + PoS epoch
+        ( 1001, uint256("0xbf072343bb3d1a715d4821e6532764b1822d548f42fc077b018d13f44ff25c8a") ) // Initial 12-hour period of sustained PoS
+        ( 6001, uint256("0x5541e26132973dec35b6b135e88a11a7c7f92fefd0365cf14cb3cff6f36692fe") ) // Blockchain no longer requires PoW for sustainability
+    //    ( ABCDE,  uint256("0xbf072343bb3d1a715d4821e6532764b1822d548f42fc077b018dx3y4zff25c8a") ) // July 1, 2022 formal decomissioning of old Zetacoin
     ;
 
     // TestNet has no checkpoints
