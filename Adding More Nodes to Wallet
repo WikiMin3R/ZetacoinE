@@ -1,9 +1,10 @@
 ************************
 * (c) 2021 EWMCI, LLC. *
+* Zetacoin Developers  *
 ************************
 
 ====================================================================
-A simple guide to adding new nodes quickly to the Zetacoin wallet.
+A simple guide to adding new nodes quickly to the Zetacoin Qt wallet
 ====================================================================
 Ordinarily, your wallet connects to seed nodes, which provide it with additional IP connections
 Such node aggregation within your wallet can take some time and requires continuous internet connection
@@ -12,10 +13,6 @@ If you want to quickly increase the number of nodes in your wallet, do the follo
 1) Go to our block explorer:
 
    http://explorer.zetacoin.org
-
-   OR 
-
-   http://207.180.216.126:3007
 
 2) On the TOP MENU, find "Network" and click on it
 
@@ -26,6 +23,8 @@ If you want to quickly increase the number of nodes in your wallet, do the follo
    addnode ABC.ABC.ABC.ABC add     <PRESS ENTER>
    [Note: Each "ABC" shuold be substituted by the IP number, so a sample address would be 62.171.189.175 and so on...]
 
-5) The wallet will return "null" or nothing if the new address is truly new; The wallet will return an error if the address already in your wallet
+5) The wallet will return "null" or nothing if the new address is truly new; 
+   The wallet will return an error if the address already in your wallet; 
+  You will also get an error if incorrect syntax was used
 
 ====================================================================
