@@ -1,4 +1,4 @@
-Zetacoin 1.2.5.5 BETA
+Zetacoin 0.14.1.2 BETA
 
 Copyright (c) 2013 NovaCoin Developers
 Copyright (c) 2011-2012 PPCoin Developers
@@ -18,3 +18,8 @@ the goal of providing a long-term energy-efficient scrypt-based crypto-currency.
 Built on the foundation of Bitcoin, PPCoin, NovaCoin, and Blackcoin innovations 
 such as proof-of-stake help further advance the field of crypto-currency.
 
+Additional Resource
+-------------------
+Excellent guide for cross-compiling Windows binaries on Linux can be found at:
+https://astracoin.org/how-do-i-cross-compile-a-wallet-for-windows-scrypt-pow-pos/
+We will be adopting this guide for the upcoming versions of "New Zetacoin" (Scrypt PoW / PoS).
