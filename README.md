@@ -7,6 +7,8 @@ New in Zetacoin v0.14.1.2-2021-network-rollout:
         [b] PoS - This is a new feature and is intended purely to maintain and secure the blockchain in the absence of PoW activity
             The fixed PoS reward is set at 0.0625 ZET 
 3) Minor bug fixes identified during the compilation process
+4) Added initial seed server to help ensure wallets auto-populate IP connections;
+   More seeds will be developed as the network transitions from SHA256 to Scrypt/PoS
 
 Node lists can be pasted into your zetacoin.conf and are available at:
 1) https://chainz.cryptoid.info/zet/#!network
