@@ -36,8 +36,8 @@ DEL_DIR       = rmdir
 MOVE          = mv -f
 TAR           = tar -cf
 COMPRESS      = gzip -9f
-DISTNAME      = zetacoin-qt0.14.1.1
-DISTDIR = /home/usr/Zetacoin/build/zetacoin-qt0.14.1.1
+DISTNAME      = zetacoin-qt0.14.1.2
+DISTDIR = /home/usr/Zetacoin/build/zetacoin-qt0.14.1.2
 LINK          = g++
 LFLAGS        = -fstack-protector-all --param ssp-buffer-size=1 -Wl,-O1
 LIBS          = $(SUBLIBS) -lminiupnpc /home/usr/Zetacoin/src/leveldb/libleveldb.a /home/usr/Zetacoin/src/leveldb/libmemenv.a -lssl -lcrypto -ldb_cxx -lboost_system -lboost_chrono -lboost_filesystem -lboost_program_options -lboost_thread -lrt -ldl -lpthread /usr/lib/x86_64-linux-gnu/libQt5Widgets.so /usr/lib/x86_64-linux-gnu/libQt5Gui.so /usr/lib/x86_64-linux-gnu/libQt5Network.so /usr/lib/x86_64-linux-gnu/libQt5DBus.so /usr/lib/x86_64-linux-gnu/libQt5Core.so /usr/lib/x86_64-linux-gnu/libGL.so   
