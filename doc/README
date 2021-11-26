@@ -23,3 +23,5 @@ Additional Resource
 Excellent guide for cross-compiling Windows binaries on Linux can be found at:
 https://astracoin.org/how-do-i-cross-compile-a-wallet-for-windows-scrypt-pow-pos/
 We will be adopting this guide for the upcoming versions of "New Zetacoin" (Scrypt PoW / PoS).
+
+
