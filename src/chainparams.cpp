@@ -89,11 +89,11 @@ public:
         assert(genesis.hashMerkleRoot == uint256("0xa715a22657b85ad56eb1913702dac8dc73f33738518d710725e3fc6634e7512d"));
 
         // List of SeedNodes - The latter three will be replaced as we transition the SPV network away from Legacy Zetacoin
-		vSeeds.push_back(CDNSSeedData("zeta-seed-a.zetacoin.info", "207.180.252.200"));
+		vSeeds.push_back(CDNSSeedData("DNSSeeder1", "dns1.zeta-seed-a.zetacoin.info", "207.180.252.200"));
 	        vSeeds.push_back(CDNSSeedData("zeta-seed-b.zetacoin.biz", "176.57.189.38"));
-	//	vSeeds.push_back(CDNSSeedData("secondary-zet.transcenders.ws", "207.180.208.187"));        
-	//	vSeeds.push_back(CDNSSeedData("tertiary-zet.transcenders.ws", "95.111.247.164"));
-	//    	vSeeds.push_back(CDNSSeedData("zet.electrumx.transcenders.name", "62.171.161.79"));
+	//	vSeeds.push_back(CDNSSeedData("tbd.xxx.xxx.xxx", "tbd.xxx.xxx.xxx"));        
+	//	vSeeds.push_back(CDNSSeedData("tbd.yyy.yyy.yyy", "tbd.yyy.yyy.yyy"));
+	//    	vSeeds.push_back(CDNSSeedData("tbd.zzz.zzz.zzz", "tbd.zzz.zzz.zzz"));
 
         base58Prefixes[PUBKEY_ADDRESS] = std::vector<unsigned char>(1, 20);
         base58Prefixes[SCRIPT_ADDRESS] = std::vector<unsigned char>(1, 85);
