@@ -91,7 +91,7 @@ public:
         // List of SeedNodes - The latter three will be replaced as we transition the SPV network away from Legacy Zetacoin
 		vSeeds.push_back(CDNSSeedData("DNSSeeder1", "dns1.zetacoin.info"));
 	        vSeeds.push_back(CDNSSeedData("zeta-seed-b.zetacoin.biz", "176.57.189.38"));
-	//	vSeeds.push_back(CDNSSeedData("tbd.xxx.xxx.xxx", "tbd.xxx.xxx.xxx"));        
+		vSeeds.push_back(CDNSSeedData("zeta-seed-c.zetacoin.tech", "45.118.133.64"));        
 	//	vSeeds.push_back(CDNSSeedData("tbd.yyy.yyy.yyy", "tbd.yyy.yyy.yyy"));
 	//    	vSeeds.push_back(CDNSSeedData("tbd.zzz.zzz.zzz", "tbd.zzz.zzz.zzz"));
 
