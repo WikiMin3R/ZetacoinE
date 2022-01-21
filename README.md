@@ -12,8 +12,6 @@ New in Zetacoin v0.14.1.2-2021-network-rollout:
 
 Node lists can be pasted into your zetacoin.conf and are available at:
 1) https://chainz.cryptoid.info/zet/#!network
-2) http://explorer.zetacoin.io/ 
-[Click on "Network"]
 
 https://ewmci.info/ continues to develop the Zetacoin protocol. More information available at links below:
 Website: https://zetacoin.io 
