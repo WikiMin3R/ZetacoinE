@@ -5,3 +5,8 @@ To prevent dust attacks, you should add
 paytxfee=0.001 
 
 to your zetacoin.conf
+
+Location of the file: 
+
+In Linux, it's under .zetacoin in user home directory
+In Windows, it is under zetacoin in %Appdata% directory
