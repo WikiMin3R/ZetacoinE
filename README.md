@@ -1,3 +1,7 @@
+[DESCRIPTION]		 
+
+Zetacoin (ZET) was introduced as a truly innovative cryptocurrency, based on Bitcoin and designed to combine transaction speed and ease-of-use. Zetacoin is a transparent, open-source network, in operation since August 3, 2013 and created by a team of anonymous developers. The original “Legacy Zetacoin” blockchain was based on SHA256 and featured ultra-fast block times, resulting in significant inefficiencies. The project was abandoned in 2018 with a small group of enthusiasts and hobbyists maintaining it. In late 2021, after a community consultation and a month-long Q&A period, the project successfully transitioned to a Scrypt-based, hybrid Proof-of-Work (PoW) and Proof-of-Stake (PoS) code that addresses the inefficiencies of the original chain and ensures long-term sustainability. In addition to burn-based reduction in total coin supply, the new code upgrade limits annual supply of new ZET to <50,000 coins.
+
 [MANDATORY UPDATE]
 
 New in Zetacoin v0.14.1.2-2021-network-rollout:
