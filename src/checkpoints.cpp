@@ -35,7 +35,8 @@ static const int nCheckpointSpan = 500;
         ( 1001,    uint256("0xbf072343bb3d1a715d4821e6532764b1822d548f42fc077b018d13f44ff25c8a") ) // Initial 12-hour period of sustained PoS
         ( 6001,    uint256("0x5541e26132973dec35b6b135e88a11a7c7f92fefd0365cf14cb3cff6f36692fe") ) // Blockchain no longer requires PoW for sustainability
         ( 200002,  uint256("0x72b9d49709ea11a8262cfd52cf7933061691c850499b48cd1e8ff20295f2983e") ) // Feb 19, 2022 Interim checkpoint added
-        ( 660001,  uint256("0x7410fd43403df51e80e7c086d5022b81bb49507f976f7d4be49270a7d21d20ff") ) // Aug 1, 2022 formal decomissioning of old Zetacoin & Unclaimed coin begin
+        ( 660001,  uint256("0x7410fd43403df51e80e7c086d5022b81bb49507f976f7d4be49270a7d21d20ff") ) // Aug 1, 2022 Formal decomissioning of old Zetacoin & Unclaimed coin begin
+        ( 731001,  uint256("0x86e6dec83ca7662f5557814572961aefab05a3522b6f854a8bcc9d1b6c3d7e19") ) // Aug 27, 2022 Routine checkpoint added       
     ;
 
     // TestNet has no checkpoints
