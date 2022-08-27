@@ -16,7 +16,9 @@
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The BlackCoin developers
-Copyright © 2018-2021 EWMCI, LLC.</source>
+Copyright © 2018-2021 EWMCI, LLC.
+Copyright © 2019-2022 Zetacoin developers</source>
+        
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1702,7 +1704,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
-        <source>Enter an Zetacoin address (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter an Zetacoin address (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1830,7 +1832,7 @@ Address: %4
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1871,7 +1873,7 @@ Address: %4
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter an Zetacoin address (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter an Zetacoin address (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
         <translation type="unfinished"/>
     </message>
 </context>
@@ -1895,7 +1897,7 @@ Address: %4
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to sign the message with (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1959,7 +1961,7 @@ Address: %4
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address the message was signed with (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1975,7 +1977,7 @@ Address: %4
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter an Zetacoin address (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>Enter an Zetacoin address (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
         <translation type="unfinished"/>
     </message>
     <message>
