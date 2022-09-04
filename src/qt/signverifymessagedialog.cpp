@@ -24,10 +24,10 @@ SignVerifyMessageDialog::SignVerifyMessageDialog(QWidget *parent) :
 
 #if (QT_VERSION >= 0x040700)
     /* Do not move this to the XML file, Qt before 4.7 will choke on it */
-    ui->addressIn_SM->setPlaceholderText(tr("Enter a Zetacoin address (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)"));
+    ui->addressIn_SM->setPlaceholderText(tr("Enter a Zetacoin address (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)"));
     ui->signatureOut_SM->setPlaceholderText(tr("Click \"Sign Message\" to generate signature"));
 
-    ui->addressIn_VM->setPlaceholderText(tr("Enter a Zetacoin address (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)"));
+    ui->addressIn_VM->setPlaceholderText(tr("Enter a Zetacoin address (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)"));
     ui->signatureIn_VM->setPlaceholderText(tr("Enter Zetacoin signature"));
 #endif
 
