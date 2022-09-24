@@ -16,11 +16,11 @@
         <source>Copyright © 2009-2014 The Bitcoin developers
 Copyright © 2012-2014 The NovaCoin developers
 Copyright © 2014 The BlackCoin developers
-Copyright © 2018-2020 EWMCI, LLC.</source>
+Copyright © 2018-2022 EWMCI, LLC.</source>
         <translation>Copyright © 2009-2014 De Bitcoin ontwikkelaars
 Copyright © 2012-2014 De NovaCoin ontwikkelaars
 Copyright © 2014 De BlackCoin ontwikkelaars
-Copyright © 2018-2020 EWMCI, LLC.</translation>
+Copyright © 2018-2022 EWMCI, LLC.</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1719,8 +1719,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsdialog.cpp" line="-171"/>
-        <source>Enter an Zetacoin address (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Zetacoin adres in (bijv. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter an Zetacoin address (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
+        <translation>Voeg een Zetacoin adres in (bijv. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</translation>
     </message>
     <message>
         <location line="+15"/>
@@ -1847,7 +1847,7 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+34"/>
-        <source>The address to send the payment to (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
+        <source>The address to send the payment to (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
         <translation type="unfinished"/>
     </message>
     <message>
@@ -1888,8 +1888,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location filename="../sendcoinsentry.cpp" line="+1"/>
-        <source>Enter an Zetacoin address (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Zetacoin adres in (bijv. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter an Zetacoin address (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
+        <translation>Voeg een Zetacoin adres in (bijv. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</translation>
     </message>
 </context>
 <context>
@@ -1912,8 +1912,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+18"/>
-        <source>The address to sign the message with (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Het adres om het bericht te ondertekenen (bijv. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i) </translation>
+        <source>The address to sign the message with (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
+        <translation>Het adres om het bericht te ondertekenen (bijv. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe) </translation>
     </message>
     <message>
         <location line="+10"/>
@@ -1976,8 +1976,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     </message>
     <message>
         <location line="+21"/>
-        <source>The address the message was signed with (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Het adres van het bericht is ondertekend met (bijv. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>The address the message was signed with (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
+        <translation>Het adres van het bericht is ondertekend met (bijv. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</translation>
     </message>
     <message>
         <location line="+40"/>
@@ -1992,8 +1992,8 @@ Dit betekend dat een fee van %2 is vereist.</translation>
     <message>
         <location filename="../signverifymessagedialog.cpp" line="+27"/>
         <location line="+3"/>
-        <source>Enter an Zetacoin address (e.g. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</source>
-        <translation>Voeg een Zetacoin adres in (bijv. EWXZqgY4r2RoEdqYk3QsAqFckyf9pRHN6i)</translation>
+        <source>Enter an Zetacoin address (e.g. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</source>
+        <translation>Voeg een Zetacoin adres in (bijv. 9x0xZeTaCoIn0xIs0xToTaL1Y0xAwEsoMe)</translation>
     </message>
     <message>
         <location line="-2"/>
